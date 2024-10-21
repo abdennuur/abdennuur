@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/abdennuur">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Franklin+Obasi;Software+Engineer+%7C+Devops+Engineer+%7C+Data+Engineer;AI+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=abdennour+khatib;Software+Engineer+%7C+Devops+Engineer+%7C+Data+Engineer;AI+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
   
