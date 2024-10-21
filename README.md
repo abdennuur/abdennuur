@@ -27,10 +27,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinobasy&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdennuur&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franklinobasy&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franklinobasy&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdennuur&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdennuur&theme=dracula)
 
 </details>
 </p>
