@@ -4,7 +4,7 @@
 </a>
 <br/>
   
-<a href="cv">
+<a href="https://drive.google.com/file/d/1x5zCUJ21qgbvnxvv8CB0EILLl4LQjhSi/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 
